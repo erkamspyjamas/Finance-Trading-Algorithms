@@ -8,16 +8,21 @@ class FormalFluorescentYellowArmadillo(QCAlgorithm):
         self.SetEndDate(2022, 1, 1) # Set End Date
         self.SetCash(100000)  # Set Strategy Cash
         
+        #Adding Equity
         spy = self.AddEquity("SPY", Resolution.Daily)
         # self.AddForex, self.AddFuture...
         
+        #Normalization
         spy.SetDataNormalizationMode(DataNormalizationMode.Raw)
         
+        #Symbol
         self.spy = spy.Symbol
         
+        #Benchmark and Brokerage
         self.SetBenchmark("SPY")
         self.SetBrokerageModel(BrokerageName.InteractiveBrokersBrokerage, AccountType.Margin)
         
+        #EntryPrice, Period and NextEntryTime
         self.entryPrice = 0
         self.period = timedelta(31)
         self.nextEntryTime = self.Time
@@ -31,6 +36,7 @@ class FormalFluorescentYellowArmadillo(QCAlgorithm):
         price = data[self.spy].Close
         # price = self.Securities[self.spy].Close
         
+        #Checking is Invested?
         if not self.Portfolio.Invested:
             if self.nextEntryTime <= self.Time:
                 self.SetHoldings(self.spy, 1)
