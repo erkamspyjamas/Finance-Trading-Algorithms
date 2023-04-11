@@ -15,3 +15,7 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 ## simpleBot3.py
 
 ![simpleBot3](https://user-images.githubusercontent.com/73748872/230889082-6e4c5688-d0da-4862-a150-3b0c02f64f00.png)
+
+## simpleBot4.py
+
+![simpleBot4](https://user-images.githubusercontent.com/73748872/231157938-cd14f8a3-d083-4e26-bd9b-bae651255d13.png)
