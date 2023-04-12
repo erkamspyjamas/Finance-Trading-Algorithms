@@ -23,3 +23,8 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 ## simpleBot5.py
 
 ![simpleBot5](https://user-images.githubusercontent.com/73748872/231408934-cb71f8dc-c90b-4795-b72a-c785cf8d1386.png)
+
+## twitterBot.py
+
+![twitterBot1](https://user-images.githubusercontent.com/73748872/231449069-ac767fa2-cd92-4931-8215-66b568e4ffe9.png)
+![twitterBot2](https://user-images.githubusercontent.com/73748872/231449056-cf3c048e-3bd0-4124-849a-d939ffaae2e0.png)
