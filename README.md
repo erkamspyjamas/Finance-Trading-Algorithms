@@ -19,3 +19,7 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 ## simpleBot4.py
 
 ![simpleBot4](https://user-images.githubusercontent.com/73748872/231157938-cd14f8a3-d083-4e26-bd9b-bae651255d13.png)
+
+## simpleBot5.py
+
+![simpleBot5](https://user-images.githubusercontent.com/73748872/231408934-cb71f8dc-c90b-4795-b72a-c785cf8d1386.png)
