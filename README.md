@@ -28,3 +28,6 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 
 ![twitterBot1](https://user-images.githubusercontent.com/73748872/231449069-ac767fa2-cd92-4931-8215-66b568e4ffe9.png)
 ![twitterBot2](https://user-images.githubusercontent.com/73748872/231449056-cf3c048e-3bd0-4124-849a-d939ffaae2e0.png)
+
+## simpleBotOptimize.py
+![simpleBotOptimize](https://user-images.githubusercontent.com/73748872/231459860-9540c611-f313-471b-9cde-daa7fbdaef20.png)
