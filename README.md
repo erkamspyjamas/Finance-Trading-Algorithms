@@ -1,6 +1,6 @@
 # Finance-Trading-Algorithms
 
-Code snippets for financial bot programming training on QuantConnect.
+Code snippets for financial bot programming training on [QuantConnect](https://www.quantconnect.com/).
 
 If you want try this codes, you need create QuantConnect account and use QuantConnect's terminal.
 
