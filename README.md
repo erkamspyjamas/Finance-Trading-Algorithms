@@ -35,4 +35,6 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 ## forexBot.py
 ![forexBot](https://user-images.githubusercontent.com/73748872/231711436-befb8530-a1e5-4959-8ca5-b631fb72c7a8.png)
 
+## optionsTradingBot.py
+![OptionsTradingBot](https://user-images.githubusercontent.com/73748872/231720210-72360b76-c345-449e-9d5c-fa8f1efcaa2a.png)
 
