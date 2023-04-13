@@ -31,3 +31,8 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 
 ## simpleBotOptimize.py
 ![simpleBotOptimize](https://user-images.githubusercontent.com/73748872/231459860-9540c611-f313-471b-9cde-daa7fbdaef20.png)
+
+## forexBot.py
+![forexBot](https://user-images.githubusercontent.com/73748872/231711436-befb8530-a1e5-4959-8ca5-b631fb72c7a8.png)
+
+
