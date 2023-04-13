@@ -38,3 +38,7 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 ## <a href="simpleBots/optionsTradingBot.py">optionsTradingBot.py</a>
 ![OptionsTradingBot](https://user-images.githubusercontent.com/73748872/231720210-72360b76-c345-449e-9d5c-fa8f1efcaa2a.png)
 
+## <a href= "simpleBots/cryptoTrading.py">cryptoTrading.py</a>
+![cryptoBot](https://user-images.githubusercontent.com/73748872/231752859-321d425a-9540-4587-8831-9fc16024d4fe.png)
+![cryptoBot2](https://user-images.githubusercontent.com/73748872/231753243-61ff87c8-2a83-41a4-966f-ef2bad0bb0dc.png)
+
