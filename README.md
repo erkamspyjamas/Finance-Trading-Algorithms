@@ -4,6 +4,9 @@ Code snippets for financial bot programming training on [QuantConnect](https://w
 
 If you want try this codes, you need create QuantConnect account and use QuantConnect's terminal.
 
+## THE ALGORITHM FRAMEWORK
+![Screenshot 2023-04-13 152858](https://user-images.githubusercontent.com/73748872/231759270-be3f52aa-ea43-4242-86f3-672468514234.png)
+
 ## <a href="simpleBots/simplebot.py">simplebot.py</a>
 
 ![simplebot](https://user-images.githubusercontent.com/73748872/230595452-3e9edb7a-d1eb-45eb-b07e-17bdbd47c491.png)
@@ -37,4 +40,8 @@ If you want try this codes, you need create QuantConnect account and use QuantCo
 
 ## <a href="simpleBots/optionsTradingBot.py">optionsTradingBot.py</a>
 ![OptionsTradingBot](https://user-images.githubusercontent.com/73748872/231720210-72360b76-c345-449e-9d5c-fa8f1efcaa2a.png)
+
+## <a href= "simpleBots/cryptoTrading.py">cryptoTrading.py</a>
+![cryptoBot](https://user-images.githubusercontent.com/73748872/231752859-321d425a-9540-4587-8831-9fc16024d4fe.png)
+![cryptoBot2](https://user-images.githubusercontent.com/73748872/231753243-61ff87c8-2a83-41a4-966f-ef2bad0bb0dc.png)
 
